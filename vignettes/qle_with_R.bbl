@@ -1,0 +1,309 @@
+\begin{thebibliography}{44}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Baaske \emph{et~al.}(2014)Baaske, Ballani, and van~den
+  Boogaart}]{Baaske2014}
+Baaske M, Ballani F, van~den Boogaart K (2014).
+\newblock \enquote{A quasi-likelihood approach to parameter estimation for
+  simulatable statistical models.}
+\newblock \emph{Image Analysis \& Stereology}, \textbf{33}(2), 107--119.
+\newblock ISSN 1854-5165.
+\newblock \urlprefix\url{http://www.ias-iss.org/ojs/IAS/article/view/1088}.
+
+\bibitem[{Baddeley \emph{et~al.}(2005)Baddeley, Turner, Mateu, and
+  Bevan}]{pkg:spatstat}
+Baddeley A, Turner R, Mateu J, Bevan A (2005).
+\newblock \enquote{{spatstat}: An {R} Package for Analyzing Spatial Point
+  Patterns.}
+\newblock \emph{Journal of Statistical Software}, \textbf{12}(6), 1--42.
+\newblock \urlprefix\url{http://www.jstatsoft.org/v12/i06/}.
+
+\bibitem[{Carnell(2016)}]{pkg:lhs}
+Carnell R (2016).
+\newblock \emph{{lhs}: Latin Hypercube Samples}.
+\newblock R package version 0.14,
+  \urlprefix\url{https://CRAN.R-project.org/package=lhs}.
+
+\bibitem[{Chauss{\'e}(2010)}]{ref:pkgGMM}
+Chauss{\'e} P (2010).
+\newblock \enquote{Computing Generalized Method of Moments and Generalized
+  Empirical Likelihood with {R}.}
+\newblock \emph{Journal of Statistical Software}, \textbf{34}(11), 1--35.
+\newblock \urlprefix\url{http://www.jstatsoft.org/v34/i11/}.
+
+\bibitem[{Chiles and Delfiner(1999)}]{ref:ChilesDelfiner1999}
+Chiles JP, Delfiner P (1999).
+\newblock \emph{Geostatistics: modelling spatial uncertainty}.
+\newblock J.~Wiley \& Sons, New York.
+
+\bibitem[{Conn \emph{et~al.}(2009)Conn, Scheinberg, and Vicente}]{ref:Conn2009}
+Conn AR, Scheinberg K, Vicente LN (2009).
+\newblock \emph{Introduction to Derivative-Free Optimization}.
+\newblock Society for Industrial and Applied Mathematics, Philadelphia, PA,
+  USA.
+\newblock ISBN 0898716683, 9780898716689.
+
+\bibitem[{Cressie(1993)}]{ref:Cressie1993}
+Cressie NAC (1993).
+\newblock \emph{Statistics for spatial data}.
+\newblock J.~Wiley \& Sons, New York.
+
+\bibitem[{Dryden \emph{et~al.}(2009)Dryden, Koloydenko, and Zhou}]{Dryden2009}
+Dryden IL, Koloydenko A, Zhou D (2009).
+\newblock \enquote{Non-Euclidean Statistics for Covariance Matrices, with
+  Applications to Diffusion Tensor Imaging.}
+\newblock \emph{The Annals of Applied Statistics}, \textbf{3}(3), 1102--1123.
+\newblock ISSN 19326157.
+\newblock \urlprefix\url{http://www.jstor.org/stable/30242879}.
+
+\bibitem[{Eddelbuettel(2017)}]{pkg:digest}
+Eddelbuettel D (2017).
+\newblock \emph{{digest}: Create Compact Hash Digests of R Objects}.
+\newblock R package version 0.6.12,
+  \urlprefix\url{https://CRAN.R-project.org/package=digest}.
+
+\bibitem[{Efron and Tibshirani(1994)}]{efron1994}
+Efron B, Tibshirani R (1994).
+\newblock \emph{An Introduction to the Bootstrap}.
+\newblock Chapman \& Hall/CRC Monographs on Statistics \& Applied Probability.
+  Taylor \& Francis.
+\newblock ISBN 9780412042317.
+
+\bibitem[{Genz \emph{et~al.}(2017)Genz, Bretz, Miwa, Mi, Leisch, Scheipl, and
+  Hothorn}]{pkg:mvtnorm}
+Genz A, Bretz F, Miwa T, Mi X, Leisch F, Scheipl F, Hothorn T (2017).
+\newblock \emph{{mvtnorm}: Multivariate Normal and t Distributions}.
+\newblock R package version 1.0-6,
+  \urlprefix\url{https://CRAN.R-project.org/package=mvtnorm}.
+
+\bibitem[{Godambe(1991)}]{Godambe1991}
+Godambe V (1991).
+\newblock \emph{Estimating Functions}.
+\newblock Oxford science publications. Clarendon Press.
+\newblock ISBN 9780198522287.
+
+\bibitem[{Golub and Loan(1996)}]{ref:Golub1996}
+Golub GH, Loan CFV (1996).
+\newblock \emph{Matrix {C}omputations}.
+\newblock JHU Press, Baltimore, MD, USA.
+
+\bibitem[{Goulet \emph{et~al.}(2017)Goulet, Dutang, Maechler, Firth, Shapira,
+  and Stadelmann}]{pkg:expm}
+Goulet V, Dutang C, Maechler M, Firth D, Shapira M, Stadelmann M (2017).
+\newblock \emph{{expm}: Matrix Exponential, Log, 'etc'}.
+\newblock R package version 0.999-2,
+  \urlprefix\url{http://CRAN.R-project.org/package=expm}.
+
+\bibitem[{Hansen(1982)}]{ref:Hansen1982}
+Hansen LP (1982).
+\newblock \enquote{{Large Sample Properties of Generalized Method of Moments
+  Estimators}.}
+\newblock \emph{Econometrica}, \textbf{50}(4), 1029--1054.
+\newblock
+  \urlprefix\url{https://ideas.repec.org/a/ecm/emetrp/v50y1982i4p1029-54.html}.
+
+\bibitem[{Heyde(1997)}]{ref:Heyde1997}
+Heyde CC (1997).
+\newblock \emph{Quasi-likelihood and its applications: a general approach to
+  optimal parameter estimation}.
+\newblock Springer, New York.
+
+\bibitem[{Jakobsson \emph{et~al.}(2010)Jakobsson, Patriksson, Rudholm, and
+  Wojciechowski}]{ref:Jakobsson2010}
+Jakobsson S, Patriksson M, Rudholm J, Wojciechowski A (2010).
+\newblock \enquote{A method for simulation based optimization using radial
+  basis functions.}
+\newblock \emph{Optimization and Engineering}, \textbf{11}(4), 501--532.
+\newblock ISSN 1573-2924.
+\newblock \doi{10.1007/s11081-009-9087-1}.
+
+\bibitem[{Jesus and Chandler(2011)}]{Jesus871}
+Jesus J, Chandler RE (2011).
+\newblock \enquote{Estimating functions and the generalized method of moments.}
+\newblock \emph{Interface Focus}, \textbf{1}(6), 871--885.
+\newblock ISSN 2042-8898.
+\newblock \doi{10.1098/rsfs.2011.0057}.
+
+\bibitem[{Jin \emph{et~al.}(2002)Jin, Chen, and Sudjianto}]{Jin2002}
+Jin R, Chen W, Sudjianto A (2002).
+\newblock \enquote{On sequential sampling for global metamodeling in
+  engineering design.}
+\newblock In \emph{Proceedings of the ASME Design Engineering Technical
+  Conference}, volume~2, pp. 539--548.
+
+\bibitem[{Jones(2001)}]{ref:Jones2001}
+Jones D (2001).
+\newblock \enquote{A taxonomy of global optimization methods based on response
+  surfaces.}
+\newblock \emph{J. Global Optim.}, \textbf{21}, 345--383.
+
+\bibitem[{Jones \emph{et~al.}(1998)Jones, Schonlau, and Welch}]{ref:Jones1998}
+Jones DR, Schonlau M, Welch WJ (1998).
+\newblock \enquote{Efficient Global Optimization of Expensive Black-Box
+  Functions.}
+\newblock \emph{Journal of Global Optimization}, \textbf{13}(4), 455--492.
+\newblock ISSN 1573-2916.
+\newblock \doi{10.1023/A:1008306431147}.
+
+\bibitem[{Kleijnen and Beers(2004)}]{Kleijnen2004a}
+Kleijnen JPC, Beers WCMv (2004).
+\newblock \enquote{Application-driven sequential designs for simulation
+  experiments: Kriging metamodelling.}
+\newblock \emph{Journal of the Operational Research Society}, \textbf{55}(8),
+  876--883.
+\newblock ISSN 1476-9360.
+\newblock \urlprefix\url{http://dx.doi.org/10.1057/palgrave.jors.2601747}.
+
+\bibitem[{Kleijnen and van Beers(2009)}]{ref:Kleijnen2009}
+Kleijnen JPC, van Beers WCM (2009).
+\newblock \enquote{Kriging metamodeling in simulation: {A} review.}
+\newblock \emph{Eur. J. Oper. Res.}, \textbf{192}, 707--716.
+
+\bibitem[{Liang and Zeger(1986)}]{ref:Liang1986}
+Liang KY, Zeger SL (1986).
+\newblock \enquote{Longitudinal data analysis using generalized linear models.}
+\newblock \emph{Biometrika}, \textbf{73}(1), 13.
+\newblock \doi{10.1093/biomet/73.1.13}.
+
+\bibitem[{Liang and Zeger(1995)}]{ref:Liang1995}
+Liang KY, Zeger SL (1995).
+\newblock \enquote{Inference based on estimating functions in the presence of
+  nuisance parameters.}
+\newblock \emph{Statist. Sci.}, \textbf{10}, 158--173.
+
+\bibitem[{Marchant and Lark(2007)}]{ref:Marchant2007}
+Marchant BP, Lark RM (2007).
+\newblock \enquote{Optimized Sample Schemes for Geostatistical Surveys.}
+\newblock \emph{Mathematical Geology}, \textbf{39}(1), 113--134.
+\newblock ISSN 1573-8868.
+\newblock \doi{10.1007/s11004-006-9069-1}.
+\newblock \urlprefix\url{http://dx.doi.org/10.1007/s11004-006-9069-1}.
+
+\bibitem[{McFadden(1989)}]{ref:McFadden1989}
+McFadden D (1989).
+\newblock \enquote{A Method of Simulated Moments for Estimation of Discrete
+  Response Models without Numerical Integration.}
+\newblock \emph{Econometrica}, \textbf{57}(5), 995--1026.
+\newblock
+  \urlprefix\url{http://EconPapers.repec.org/RePEc:ecm:emetrp:v:57:y:1989:i:5:p:995-1026}.
+
+\bibitem[{Meckesheimer \emph{et~al.}(2002)Meckesheimer, Booker, Barton, and
+  Simpson}]{Meckesheimer2002}
+Meckesheimer M, Booker AJ, Barton RR, Simpson TW (2002).
+\newblock \enquote{Computationally Inexpensive Metamodel Assessment
+  Strategies.}
+\newblock \emph{AIAA Journal}, \textbf{40}(10), 2053--2060.
+\newblock ISSN 0001-1452.
+\newblock \doi{10.2514/2.1538}.
+
+\bibitem[{M{\"u}ller(2001)}]{mueller2001}
+M{\"u}ller W (2001).
+\newblock \emph{Collecting Spatial Data: Optimum Design of Experiments for
+  Random Fields}.
+\newblock Contributions to statistics. Physica-Verlag.
+\newblock ISBN 9783790813333.
+
+\bibitem[{Myers and Montgomery(1995)}]{ref:Myers1995}
+Myers RH, Montgomery DC (1995).
+\newblock \emph{Response Surface Methodology: Process and Product in
+  Optimization Using Designed Experiments}.
+\newblock 1st edition. John Wiley \& Sons, Inc., New York, NY, USA.
+\newblock ISBN 0471581003.
+
+\bibitem[{Osborne(1992)}]{ref:Osborne1992}
+Osborne MR (1992).
+\newblock \enquote{Fisher's method of scoring.}
+\newblock \emph{Int. Stat. Rev.}, \textbf{60}, 99--117.
+
+\bibitem[{Pukelsheim(2006)}]{ref:Puk2006}
+Pukelsheim F (2006).
+\newblock \emph{Optimal Design of Experiments (Classics in Applied Mathematics)
+  (Classics in Applied Mathematics, 50)}.
+\newblock Society for Industrial and Applied Mathematics, Philadelphia, PA,
+  USA.
+\newblock ISBN 0898716047.
+
+\bibitem[{Qi and Racine(2007)}]{Qi2007}
+Qi L, Racine JS (2007).
+\newblock \emph{Nonparametric econometrics: theory and practice}.
+\newblock Princeton University Press.
+
+\bibitem[{{R Core Team}(2017)}]{pkg:stats}
+{R Core Team} (2017).
+\newblock \emph{R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+\newblock \urlprefix\url{https://www.R-project.org/}.
+
+\bibitem[{Regis and Shoemaker(2007)}]{ref:Regis2007}
+Regis RG, Shoemaker CA (2007).
+\newblock \enquote{A Stochastic Radial Basis Function Method for the Global
+  Optimization of Expensive Functions.}
+\newblock \emph{INFORMS Journal on Computing}, \textbf{19}(4), 497--509.
+\newblock ISSN 1091-9856.
+\newblock \doi{10.1287/ijoc.1060.0182}.
+
+\bibitem[{Ripley(2009)}]{Ripley2009}
+Ripley B (2009).
+\newblock \emph{Stochastic Simulation}.
+\newblock Wiley Series in Probability and Statistics. Wiley.
+\newblock ISBN 9780470317389.
+
+\bibitem[{Ripley(2015)}]{pkg:gee}
+Ripley BD (2015).
+\newblock \emph{{gee}: An {R} Generalized Estimation Equation Solver}.
+\newblock R package version 4.13-19,
+  \urlprefix\url{http://CRAN.R-project.org/package=gee}.
+
+\bibitem[{Sacks \emph{et~al.}(1989{\natexlab{a}})Sacks, Stiller, and
+  Welch}]{ref:Sacksb1989}
+Sacks J, Stiller SB, Welch WJ (1989{\natexlab{a}}).
+\newblock \enquote{Designs for computer experiments.}
+\newblock \emph{Technometrics}, \textbf{31}, 41--47.
+
+\bibitem[{Sacks \emph{et~al.}(1989{\natexlab{b}})Sacks, Welch, Mitchel, and
+  Wynn}]{ref:Sacksa1989}
+Sacks J, Welch WJ, Mitchel TJ, Wynn HP (1989{\natexlab{b}}).
+\newblock \enquote{Design and analysis of computer experiments.}
+\newblock \emph{Statist. Sci.}, \textbf{4}, 409--423.
+
+\bibitem[{Shao and Tu(1995)}]{Shao1995}
+Shao J, Tu D (1995).
+\newblock \emph{The Jackknife and Bootstrap}.
+\newblock Springer.
+\newblock ISBN 978-0-387-94515-6.
+
+\bibitem[{van Beers and Kleijnen(2003)}]{Beers2003}
+van Beers WCM, Kleijnen JPC (2003).
+\newblock \enquote{Kriging for Interpolation in Random Simulation.}
+\newblock \emph{The Journal of the Operational Research Society},
+  \textbf{54}(3), 255--262.
+\newblock ISSN 01605682, 14769360.
+\newblock \urlprefix\url{http://www.jstor.org/stable/4101619}.
+
+\bibitem[{Wackernagel(2003)}]{ref:Wackernagel2003}
+Wackernagel H (2003).
+\newblock \emph{Multivariate geostatistics}.
+\newblock Springer, Berlin.
+
+\bibitem[{Wedderburn(1974)}]{ref:Wedder1974}
+Wedderburn RWM (1974).
+\newblock \enquote{Quasi-likelihood functions, generalized linear models, and
+  the Gauss-Newton method.}
+\newblock \emph{Biometrika}, \textbf{61}(3), 439.
+\newblock \doi{10.1093/biomet/61.3.439}.
+
+\bibitem[{Ypma(2014)}]{pkg:nloptr}
+Ypma J (2014).
+\newblock \emph{{nloptr}: R interface to NLopt}.
+\newblock R package version 1.0.4,
+  \urlprefix\url{http://CRAN.R-project.org/package=nloptr}.
+
+\end{thebibliography}
